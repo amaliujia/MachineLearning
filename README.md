@@ -11,7 +11,7 @@ Perceptron Learning Algorithm
 
 by Matlab
 
-mySignFun.m-------------sign function
+mySignFun.m-------------Sign function
 
 MLQ1.m------------------start of process
 
